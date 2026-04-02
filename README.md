@@ -102,6 +102,3 @@ You can extend or modify this project by:
 - Deploying a real-time face recognition application (e.g., webcam feed)
 - Comparing with deep-learning-based face embeddings (e.g., FaceNet, ArcFace)
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
